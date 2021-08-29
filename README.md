@@ -6,6 +6,7 @@
 [![element-ui](https://img.shields.io/badge/element-2.0.9-blue.svg?style=flat-square)](https://github.com/ElemeFE/element)
 [![Build Status](https://travis-ci.org/QingdaoU/OnlineJudgeFE.svg?branch=master)](https://travis-ci.org/QingdaoU/OnlineJudgeFE)
 
+
 >### A multiple pages app built for OnlineJudge. [Demo](https://qduoj.com)
 
 ## Features
@@ -57,7 +58,11 @@ npm run dev
 
 ## Browser Support
 
-Modern browsers and Internet Explorer 10+.
+Modern browsers and Internet Explorer 10+.            
+
+## Hisotry    
+             
+* 한글패치를 위해 i18n에서 en-US <->ko-KO 임시로 바꿔둠.
 
 ## LICENSE
 
